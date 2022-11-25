@@ -40,12 +40,6 @@ res.send()
 })
 
 
-
-
-
-
-
-
 app.listen(3000,function(){
     console.log("server created and ruuning on port 3000")
 })
